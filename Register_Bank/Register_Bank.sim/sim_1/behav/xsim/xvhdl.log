@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/thisa/Desktop/Register_Bank/Register_Bank.srcs/sources_1/new/buses.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/thisa/Desktop/Register_Bank/Register_Bank.srcs/sources_1/new/reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity reg
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/thisa/Desktop/Register_Bank/Register_Bank.srcs/sources_1/new/Register_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Register_Bank
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/thisa/Desktop/Register_Bank/Register_Bank.srcs/sim_1/new/TB_Register_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Register_Bank_tb
