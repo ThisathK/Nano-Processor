@@ -8,6 +8,8 @@ package buses is
     subtype data_bus is STD_LOGIC_VECTOR(3 downto 0);
     
     subtype instruction_address is STD_LOGIC_VECTOR(11 downto 0);
+    
+    subtype instruction_bus is STD_LOGIC_VECTOR(11 downto 0);
 
     type data_buses is array (0 to 7) of data_bus;
 
