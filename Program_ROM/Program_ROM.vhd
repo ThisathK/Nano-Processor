@@ -45,15 +45,17 @@ architecture Behavioral of Program_ROM is
 
 type rom_type is array (0 to 7) of std_logic_vector (11 downto 0);
 
-    signal count_down : rom_type := (
-        "100010001010",--MOVI R1, 10
-        "100100000001",--MOVI R2, 1
-        "010100000000",--NEG R2
-        "000010100000",--ADD R1, R2
-        "110010000111",--JZR R1, 7
-        "110000000011" --JZR R0, 3 
+    signal adding_1_to_3 : rom_type := (
+        "101110000011", --MOVI R7,3 
+        "100010000001", --MOVI R1,1 
+        "010010000000", --NEG R1 
+        "100100000011", --MOVI R2,3 
+        "000100010000", --ADD R2,R1 
+        "001110100000", --ADD R7,R2 
+        "110100000110", --JZR R2,6 
+        "110000000100"  -- JZR R0,4 
     );
 
 begin
-    I <= count_down(to_integer(unsigned(ROM_address)));
+    I <= adding_1_to_3(to_integer(unsigned(ROM_address)));
 end Behavioral;
