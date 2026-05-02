@@ -57,6 +57,6 @@ begin
                     in5 when "101",
                     in6 when "110",
                     in7 when "111",
-
+                    (others => '0') when others;
 
 end Behavioral;
