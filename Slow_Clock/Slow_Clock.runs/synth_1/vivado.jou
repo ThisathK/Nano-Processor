@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon May  4 15:49:07 2026
+# Process ID: 24884
+# Current directory: C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Slow_Clock/Slow_Clock.runs/synth_1
+# Command line: vivado.exe -log Slow_Clk.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Slow_Clk.tcl
+# Log file: C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Slow_Clock/Slow_Clock.runs/synth_1/Slow_Clk.vds
+# Journal file: C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Slow_Clock/Slow_Clock.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Slow_Clk.tcl -notrace

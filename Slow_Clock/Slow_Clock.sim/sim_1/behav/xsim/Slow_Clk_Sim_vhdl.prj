@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Slow_Clk.vhd" \
+"../../../../TB_Slow_Clk.vhd" \
+
+# Do not sort compile order
+nosort
