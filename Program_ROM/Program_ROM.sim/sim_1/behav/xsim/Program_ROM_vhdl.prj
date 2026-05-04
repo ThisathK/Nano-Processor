@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../Buses_Package/buses.vhd" \
+"../../../../Program_ROM.vhd" \
+
+# Do not sort compile order
+nosort

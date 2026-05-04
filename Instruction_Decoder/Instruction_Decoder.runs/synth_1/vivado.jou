@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat May  2 15:14:10 2026
+# Process ID: 27556
+# Current directory: C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Instruction_Decoder/Instruction_Decoder.runs/synth_1
+# Command line: vivado.exe -log Inst_Decoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Inst_Decoder.tcl
+# Log file: C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Instruction_Decoder/Instruction_Decoder.runs/synth_1/Inst_Decoder.vds
+# Journal file: C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Instruction_Decoder/Instruction_Decoder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Inst_Decoder.tcl -notrace
