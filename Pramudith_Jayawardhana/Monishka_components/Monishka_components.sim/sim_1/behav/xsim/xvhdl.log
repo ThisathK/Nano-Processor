@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Monishka_components/Monishka_components.srcs/sources_1/new/FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity FA
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Monishka_components/Monishka_components.srcs/sources_1/new/RCA_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_3
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Kaveen/Documents/CSE/SEM 2/CS1050 - Computer Oranization and Digital Design/Microprocessor/repo/Nano-Processor/Monishka_components/Monishka_components.srcs/sim_1/new/TB_RCA_3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_RCA_3
